@@ -1,17 +1,17 @@
-To do list
+<h1>The name of the project</h1>
 
-1-Twitter tweet ekleme alanı tasarımı yapılacak
+Twitter-tweet project
 
-2-Input focus olduğunda(üstüne tıklandıgında) inputun rengi değişecek.
+<h2> The aim of the project</h2>
 
-3-Inputa klavye girişi olduğunda- Birşeyler yazınca içindeki placeholder gidecek ve altta sayaç gelecek.
+the aim of the project is being applicable and readable.
 
-4-Alt kısımda bir sayaç açılacak 
+It is tweet project. you can use 100 characters for your tweet after 100 character system changes.
 
-5-Bu sayaç kalan kullanılabilecek karakter limitini tutacak.
+<h3>The technologies that used</h3>
 
-6-Eğer input girişi yoksa tweet butonu pasif olacak.
+Html-css and Javascript used for this project.
 
-7-Karakter limit aşımı olduğunda her fazla harf kırmızı background olacak ve sayaçta geçilen karalkter kırmızı ve eksi ile gösterilecek.
+<h4>The screenshot of the project</h4>
 
-# JavaScript-Tweet-Project
+![](screenof%20tweet.gif)
